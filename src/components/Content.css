@@ -40,3 +40,10 @@ body{
     font-weight: 400;
 
 }
+
+@media (max-width: 768px) {
+    body{
+    width: 50%;
+    height: auto;
+    }
+  }
